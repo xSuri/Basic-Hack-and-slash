@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color:whitesmoke;
+    text-align: center;
+}
+button{
+    border-radius: 4px;
+    text-align: center;
+}
+#defeat{
+    font-size: 60px;
+    text-align: center;
+}
+#JD{
+    font-size: 120px;
+}
